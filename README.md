@@ -1,5 +1,5 @@
 # architecture-mvc-pattern
-Using a Model-View-Controller pattern, coursework for Lewis University.
+Work with a Model-View-Controller pattern, coursework for Lewis University.
 
 A school-provided implementation of a calculator
 using the Model-View-Controller design pattern.
